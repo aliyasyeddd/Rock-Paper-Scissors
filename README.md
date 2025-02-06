@@ -16,3 +16,9 @@ after running the code or using live server
 2. using prompt method to get input from human
 3. comparing both inputs declaring winner
 4. last, playing 5 rounds finalizing the scores
+
+
+dom update
+last updated dom for user interface version
+working with the DOM, using “selectors” to target the nodes,
+ CSS-style selectors and relationship properties to target the node
